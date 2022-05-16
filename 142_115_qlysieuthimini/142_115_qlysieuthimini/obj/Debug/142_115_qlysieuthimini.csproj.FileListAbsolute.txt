@@ -1,0 +1,10 @@
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\bin\Debug\142_115_qlysieuthimini.exe.config
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\bin\Debug\142_115_qlysieuthimini.exe
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\bin\Debug\142_115_qlysieuthimini.pdb
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.csproj.AssemblyReference.cache
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.csproj.SuggestedBindingRedirects.cache
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\_142_115_qlysieuthimini.Properties.Resources.resources
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.csproj.GenerateResource.cache
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.csproj.CoreCompileInputs.cache
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.exe
+E:\C#\142_115_qlysieuthimini\142_115_qlysieuthimini\obj\Debug\142_115_qlysieuthimini.pdb
